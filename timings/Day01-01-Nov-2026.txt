@@ -1,0 +1,36 @@
+Day 01 : DevOps Roadmap
+
+So on Day 01 we learn about DevOps roadmap
+This roadmap is divided in 8 Phases
+
+Phase 01: Foundation
+    1. Linux
+    2. Conditions:
+        
+Phase 2: Cloud Fundamentals(AWS)
+    3. AWS Core servises
+
+Phase 3: Containerisation & Orchestration
+    4. Docker 
+    5. Kubernets (Core + EKS/AKS)
+    6. Helm (Kubernets Packaging)
+    7. Argo CD (GitOps Continuous Delivery (CD))
+
+Phase 4: Infrastructure as Code & Configuration Management
+    8. Terraform
+    9. Ansible
+
+Phase 5: CI/CD & DevOps Automation
+    10. GitLab / Jenkins
+
+Phase 6: Observability & Monitoring
+    11. DataDog
+    12. ELK Stack
+
+Phase 7: Messaging & Streaming
+    13. Kafka / MSK / Confluent
+    
+Phase 8 : Security & Reliability
+    14. SSL Certificates
+    15. SRE
+    16. Security Tools
