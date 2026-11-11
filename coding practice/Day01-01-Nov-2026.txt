@@ -1,12 +1,12 @@
 </> Ansible task
 
 - name: Install Nginx on Pathnex server
-  host: all
+  hosts: all
   become: yes
 
   tasks:
   	- name: Install nginx
-      yum:
+     yum:
       	name: nginx
         state: present
 
