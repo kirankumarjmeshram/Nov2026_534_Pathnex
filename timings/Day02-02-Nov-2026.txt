@@ -1,0 +1,37 @@
+GIT
+Today we learn about Git
+
+It is distributed version controll system used to track code changes, maintain project history, manages branches, and collaborate with developers
+
+Learn about git installation in linux environment
+
+basic commands
+git init => initialise repo
+git clone <URL of repo>	=> Clone remote repository
+git status =>Check working tree status
+git add .=> Stage all changes
+git add <file name> =>	Stage a specific file
+git commit -m => "message"	Save staged changes
+git log => View commit history
+git diff => View unstaged changes
+git diff --staged => View staged changes
+
+Branch Management 
+git branch  =>  List branches
+git branch <branch_name> =>  Create branch
+git checkout <branch_name> || git switch <branch_name> =>  Switch branch
+git checkout -b <branch_name> =>  Create and switch
+git merge <branch_name> || git switch -c <branch_name.=>  Merge <branch_name> into current branch
+git branch -d <branch_name> =>  Delete merged branch
+
+
+Discuss Intervire Questions
+- Rebase vs merge
+- hotfix
+- cherry-pick
+- resolve git conflict
+- hard vs soft reset
+- git stash
+- git fork vs clone
+- pull vs fetch
+- reset vs revert
