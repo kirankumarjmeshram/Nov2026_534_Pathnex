@@ -1,0 +1,50 @@
+Linux
+Today I learn about Linux Interview questions
+1. What is echo command?
+2. How to check the computer name and hostname in linux?
+    - hostname
+3.  How to check the name of current user in Linux terminal?
+    - whoami
+4. How to check your current path/directory you are working in?
+    - pwd
+5. How to see all users in a Linux?
+    - cat /etc/passwd or cut -d: -f1 /etc/passwd
+6. Explain the difference between relative and absolute path?
+7. Which command to be used to create a file in Linux?
+    - touch, vi, vim, nano
+8. How will you edit an existing file on a Linux server?
+    - vi, vim, nano
+9. How to rename a file in Linux?
+    - mv f1 f2
+10. How to search for a string in a file?
+    - grip
+11. Difference between grep and egrep?
+    - egrep - can search more than one strings at a time
+12. How can you read a file without using cat command?
+    - more, less, vi, head, tail
+13. What is the advantage of using less command?
+14. How to check a file's permission?
+    - ls -l
+15. How to check the IP of your Linux server?
+    - ifconfig, ip addr
+16. How to read the top 5 lines in a file?
+    - head -5 <file_name>
+17. How to read the last 5 lines in a file?
+    - tail -5 <file_name>
+18. How to list hidden files?
+    - ls -la
+19. How to see all the recently used commands?
+    - history
+
+
+
+21. Why SSH called as Secure Shell?
+    - The communication between host and client will be in encrypted format.
+22. What is SSH?
+    - SSH or Secure Shell is a network communication protocol that enables two computers/devices to communicate and share data.
+23. Which service should be running on server to allow you to connect remotely?
+    - ssh or sshd
+24. Difference between Telnet and SSH?
+    - SSH is secured and TELNET is not secured
+25.  How to check network interfaces in Linux?
+    - ifconfig and netstat command
