@@ -1,0 +1,38 @@
+Today We learn about 
+- Linux Commands
+    - ls
+    - cd
+    - pwd
+    - mkdir
+    - rm
+    - cp
+    - mv
+    - touch
+    - cat
+    - head
+    - tail
+    - ln
+    - find
+
+- File Permission Commands
+    - chmod
+    - chown
+    - chgrp
+    - umask
+
+- File Compression and Archiving Commands
+    - tar
+    - gzip
+    - zip
+    
+
+- Process Management Commands
+    - ps
+    - top
+    - kill
+    - pkill
+    - pgrep
+
+  
+- grep
+
